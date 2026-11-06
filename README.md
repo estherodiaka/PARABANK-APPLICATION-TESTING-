@@ -1,2 +1,2 @@
 # PARABANK-APPLICATION-TESTING-
-A software testing project covering banking application functionalities, including authentication, account management, fund transfers, transaction history, balance enquiries and security testing.
+A Software QA project focused on banking API testing using Postman and performance testing using Apache JMeter, covering load testing, stress testing, API validation, response time, system performance and reliability.
